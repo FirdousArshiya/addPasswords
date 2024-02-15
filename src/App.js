@@ -154,7 +154,7 @@ class App extends Component {
           <img
             src="https://assets.ccbp.in/frontend/react-js/password-manager-lg-img.png"
             alt="password manager"
-            className="sub-div1-image"
+            className="sub-div1-image1"
           />
         </div>
         <div className="sub-div2">
